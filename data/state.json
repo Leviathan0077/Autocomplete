@@ -1,0 +1,282 @@
+[
+    {
+        "name": "Andhra Pradesh",
+        "abbr": "AP",
+        "capital": "Amaravati",
+        "lat": 16.5735,
+        "long": 80.3570,
+        "dish": "Pulihora",
+        "dialects": ["Telugu", "Urdu"],
+        "tourist_locations": ["Tirupati", "Araku Valley", "Vishakhapatnam"]
+    },
+    {
+        "name": "Arunachal Pradesh",
+        "abbr": "AR",
+        "capital": "Itanagar",
+        "lat": 27.0844,
+        "long": 93.6053,
+        "dish": "Thukpa",
+        "dialects": ["Nyishi", "Adi", "Apatanis", "Tagin"],
+        "tourist_locations": ["Tawang", "Ziro Valley", "Namdapha National Park"]
+    },
+    {
+        "name": "Assam",
+        "abbr": "AS",
+        "capital": "Dispur",
+        "lat": 26.1445,
+        "long": 91.7362,
+        "dish": "Assam Laksa",
+        "dialects": ["Assamese", "Bengali", "Bodo"],
+        "tourist_locations": ["Kaziranga National Park", "Majuli", "Kamakhya Temple"]
+    },
+    {
+        "name": "Bihar",
+        "abbr": "BR",
+        "capital": "Patna",
+        "lat": 25.5941,
+        "long": 85.1376,
+        "dish": "Litti Chokha",
+        "dialects": ["Hindi", "Maithili", "Bhojpuri"],
+        "tourist_locations": ["Bodh Gaya", "Nalanda", "Rajgir"]
+    },
+    {
+        "name": "Chhattisgarh",
+        "abbr": "CG",
+        "capital": "Raipur",
+        "lat": 21.2514,
+        "long": 81.6296,
+        "dish": "Chila",
+        "dialects": ["Chhattisgarhi", "Hindi"],
+        "tourist_locations": ["Chitrakote Falls", "Barnawapara Wildlife Sanctuary", "Kanger Valley National Park"]
+    },
+    {
+        "name": "Goa",
+        "abbr": "GA",
+        "capital": "Panaji",
+        "lat": 15.4909,
+        "long": 73.8278,
+        "dish": "Fish Curry",
+        "dialects": ["Konkani", "Marathi"],
+        "tourist_locations": ["Baga Beach", "Basilica of Bom Jesus", "Dudhsagar Falls"]
+    },
+    {
+        "name": "Gujarat",
+        "abbr": "GJ",
+        "capital": "Gandhinagar",
+        "lat": 23.2156,
+        "long": 72.6369,
+        "dish": "Dhokla",
+        "dialects": ["Gujarati", "Kutchi"],
+        "tourist_locations": ["Statue of Unity", "Gir National Park", "Rann of Kutch"]
+    },
+    {
+        "name": "Haryana",
+        "abbr": "HR",
+        "capital": "Chandigarh",
+        "lat": 30.7333,
+        "long": 76.7794,
+        "dish": "Bajre ki Khichdi",
+        "dialects": ["Hindi", "Haryanvi", "Punjabi"],
+        "tourist_locations": ["Sultanpur National Park", "Kurukshetra", "Morni Hills"]
+    },
+    {
+        "name": "Himachal Pradesh",
+        "abbr": "HP",
+        "capital": "Shimla",
+        "lat": 31.1048,
+        "long": 77.1734,
+        "dish": "Dham",
+        "dialects": ["Hindi", "Pahari", "Kangri"],
+        "tourist_locations": ["Shimla", "Manali", "Dharamshala"]
+    },
+    {
+        "name": "Jharkhand",
+        "abbr": "JH",
+        "capital": "Ranchi",
+        "lat": 23.3441,
+        "long": 85.3096,
+        "dish": "Thekua",
+        "dialects": ["Hindi", "Nagpuri", "Kurukh", "Santali"],
+        "tourist_locations": ["Betla National Park", "Dassam Falls", "Jubilee Park"]
+    },
+    {
+        "name": "Karnataka",
+        "abbr": "KA",
+        "capital": "Bengaluru",
+        "lat": 12.9716,
+        "long": 77.5946,
+        "dish": "Bisi Bele Bath",
+        "dialects": ["Kannada", "Tulu", "Konkani"],
+        "tourist_locations": ["Hampi", "Coorg", "Mysore Palace"]
+    },
+    {
+        "name": "Kerala",
+        "abbr": "KL",
+        "capital": "Thiruvananthapuram",
+        "lat": 8.5241,
+        "long": 76.9366,
+        "dish": "Puttu and Kadala Curry",
+        "dialects": ["Malayalam", "Tamil"],
+        "tourist_locations": ["Alleppey", "Munnar", "Kochi"]
+    },
+    {
+        "name": "Madhya Pradesh",
+        "abbr": "MP",
+        "capital": "Bhopal",
+        "lat": 23.2599,
+        "long": 77.4126,
+        "dish": "Poha",
+        "dialects": ["Hindi", "Malwi", "Bundeli", "Bagheli"],
+        "tourist_locations": ["Khajuraho", "Kanha National Park", "Ujjain"]
+    },
+    {
+        "name": "Maharashtra",
+        "abbr": "MH",
+        "capital": "Mumbai",
+        "lat": 19.0760,
+        "long": 72.8777,
+        "dish": "Pav Bhaji",
+        "dialects": ["Marathi", "Konkani"],
+        "tourist_locations": ["Gateway of India", "Ajanta and Ellora Caves", "Lonavala"]
+    },
+    {
+        "name": "Manipur",
+        "abbr": "MN",
+        "capital": "Imphal",
+        "lat": 24.8170,
+        "long": 93.9368,
+        "dish": "Eromba",
+        "dialects": ["Meitei", "Tangkhul", "Kuki"],
+        "tourist_locations": ["Loktak Lake", "Kangla Fort", "Keibul Lamjao National Park"]
+    },
+    {
+        "name": "Meghalaya",
+        "abbr": "ML",
+        "capital": "Shillong",
+        "lat": 25.5788,
+        "long": 91.8933,
+        "dish": "Jadoh",
+        "dialects": ["Khasi", "Garo", "Jaintia"],
+        "tourist_locations": ["Cherrapunji", "Mawlynnong", "Living Root Bridges"]
+    },
+    {
+        "name": "Mizoram",
+        "abbr": "MZ",
+        "capital": "Aizawl",
+        "lat": 23.7271,
+        "long": 92.7176,
+        "dish": "Bai",
+        "dialects": ["Mizo", "Hmar", "Lusei"],
+        "tourist_locations": ["Vantawng Falls", "Phawngpui", "Solomon's Temple"]
+    },
+    {
+        "name": "Nagaland",
+        "abbr": "NL",
+        "capital": "Kohima",
+        "lat": 25.6747,
+        "long": 94.1100,
+        "dish": "Smoked Pork with Bamboo Shoot",
+        "dialects": ["Nagamese", "Ao", "Sumi", "Lotha"],
+        "tourist_locations": ["Dzukou Valley", "Kohima War Cemetery", "Khonoma"]
+    },
+    {
+        "name": "Odisha",
+        "abbr": "OD",
+        "capital": "Bhubaneswar",
+        "lat": 20.2961,
+        "long": 85.8245,
+        "dish": "Pakhala Bhata",
+        "dialects": ["Odia", "Sambalpuri", "Desia"],
+        "tourist_locations": ["Puri", "Konark Sun Temple", "Chilika Lake"]
+    },
+    {
+        "name": "Punjab",
+        "abbr": "PB",
+        "capital": "Chandigarh",
+        "lat": 30.7333,
+        "long": 76.7794,
+        "dish": "Sarson da Saag and Makki di Roti",
+        "dialects": ["Punjabi", "Hindi"],
+        "tourist_locations": ["Golden Temple", "Jallianwala Bagh", "Wagah Border"]
+    },
+    {
+        "name": "Rajasthan",
+        "abbr": "RJ",
+        "capital": "Jaipur",
+        "lat": 26.9124,
+        "long": 75.7873,
+        "dish": "Dal Baati Churma",
+        "dialects": ["Hindi", "Rajasthani", "Marwari"],
+        "tourist_locations": ["Jaipur", "Udaipur", "Jaisalmer"]
+    },
+    {
+        "name": "Sikkim",
+        "abbr": "SK",
+        "capital": "Gangtok",
+        "lat": 27.3314,
+        "long": 88.6138,
+        "dish": "Phagshapa",
+        "dialects": ["Nepali", "Bhutia", "Lepcha"],
+        "tourist_locations": ["Tsomgo Lake", "Nathula Pass", "Rumtek Monastery"]
+    },
+    {
+        "name": "Tamil Nadu",
+        "abbr": "TN",
+        "capital": "Chennai",
+        "lat": 13.0827,
+        "long": 80.2707,
+        "dish": "Dosa",
+        "dialects": ["Tamil", "Telugu", "Kannada"],
+        "tourist_locations": ["Mahabalipuram", "Meenakshi Temple", "Kodaikanal"]
+    },
+    {
+        "name": "Telangana",
+        "abbr": "TS",
+        "capital": "Hyderabad",
+        "lat": 17.3850,
+        "long": 78.4867,
+        "dish": "Hyderabadi Biryani",
+        "dialects": ["Telugu", "Urdu"],
+        "tourist_locations": ["Charminar", "Golconda Fort", "Ramoji Film City"]
+    },
+    {
+        "name": "Tripura",
+        "abbr": "TR",
+        "capital": "Agartala",
+        "lat": 23.8315,
+        "long": 91.2868,
+        "dish": "Mui Borok",
+        "dialects": ["Bengali", "Kokborok"],
+        "tourist_locations": ["Ujjayanta Palace", "Neermahal", "Sepahijala Wildlife Sanctuary"]
+    },
+    {
+        "name": "Uttar Pradesh",
+        "abbr": "UP",
+        "capital": "Lucknow",
+        "lat": 26.8467,
+        "long": 80.9462,
+        "dish": "Tunday Kababi",
+        "dialects": ["Hindi", "Urdu", "Awadhi"],
+        "tourist_locations": ["Taj Mahal", "Varanasi", "Lucknow"]
+    },
+    {
+        "name": "Uttarakhand",
+        "abbr": "UK",
+        "capital": "Dehradun",
+        "lat": 30.3165,
+        "long": 78.0322,
+        "dish": "Kafuli",
+        "dialects": ["Hindi", "Garhwali", "Kumaoni"],
+        "tourist_locations": ["Nainital", "Haridwar", "Mussoorie"]
+    },
+    {
+        "name": "West Bengal",
+        "abbr": "WB",
+        "capital": "Kolkata",
+        "lat": 22.5726,
+        "long": 88.3639,
+        "dish": "Rosogolla",
+        "dialects": ["Bengali", "Santali"],
+        "tourist_locations": ["Sundarbans", "Darjeeling", "Victoria Memorial"]
+    }
+]
